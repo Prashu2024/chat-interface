@@ -2,8 +2,6 @@
 
 A chatbot interface that supports plugin-style tools for enhanced functionality. Users can interact using natural language or slash commands to get dynamic responses from various plugins.
 
-![Chat Interface Demo](demo-screenshot.png)
-
 ---
 
 ## Setup and Running Instructions
